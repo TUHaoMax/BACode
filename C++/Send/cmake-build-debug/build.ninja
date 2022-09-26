@@ -55,6 +55,12 @@ build CMakeFiles/Send.dir/main.cpp.obj: CXX_COMPILER__Send_Debug C$:/BIF/Graduat
   OBJECT_DIR = CMakeFiles\Send.dir
   OBJECT_FILE_DIR = CMakeFiles\Send.dir
 
+build CMakeFiles/Send.dir/HttpRequest.cpp.obj: CXX_COMPILER__Send_Debug C$:/BIF/Graduation/Code/C++/Send/HttpRequest.cpp || cmake_object_order_depends_target_Send
+  DEP_FILE = CMakeFiles\Send.dir\HttpRequest.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Send.dir
+  OBJECT_FILE_DIR = CMakeFiles\Send.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Send
@@ -63,9 +69,9 @@ build CMakeFiles/Send.dir/main.cpp.obj: CXX_COMPILER__Send_Debug C$:/BIF/Graduat
 #############################################
 # Link the executable Send.exe
 
-build Send.exe: CXX_EXECUTABLE_LINKER__Send_Debug CMakeFiles/Send.dir/main.cpp.obj
+build Send.exe: CXX_EXECUTABLE_LINKER__Send_Debug CMakeFiles/Send.dir/main.cpp.obj CMakeFiles/Send.dir/HttpRequest.cpp.obj
   FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  LINK_LIBRARIES = -lws2_32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Send.dir
   POST_BUILD = cd .
   PRE_LINK = cd .

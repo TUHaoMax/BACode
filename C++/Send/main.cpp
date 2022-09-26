@@ -1,14 +1,19 @@
 #include <iostream>
 #include <Windows.h>
-#include "cpr/include/cpr/cpr.h"
-
+#include "HttpRequest.h"
+#include <iostream>
+#include <Windows.h>
 
 int main(int argc, char** argv) {
-    cpr::Response r = cpr::Get(cpr::Url{"https://api.github.com/repos/whoshuu/cpr/contributors"},
-                               cpr::Authentication{"user", "pass", cpr::AuthMode::BASIC},
-                               cpr::Parameters{{"anon", "true"}, {"key", "value"}});
-    r.status_code;                  // 200
-    r.header["content-type"];       // application/json; charset=utf-8
-    r.text;                         // JSON text string
-    return 0;
+
+        HttpRequest httpReq("127.0.0.1", 5000);
+
+        std::string res = httpReq.HttpGet("");
+        std::cout << "send:  "<<res << std::endl;
+        Sleep(1000);
+
+        //res = httpReq.HttpPost("/postsomething/", HttpRequest::genJsonString("something", 100));
+        //std::cout << res << std::endl;
+        return 0;
+
 }
