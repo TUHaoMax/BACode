@@ -1,0 +1,3 @@
+C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate.dir
+C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/edit_cache.dir
+C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ninja log v5
+0	45	6859185272982958	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	cae0ba9217fdb3c5
+2408	2452	6859185297055806	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	67982b9e4f9052e7
+0	45	6859185272982958	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	cae0ba9217fdb3c5
+2453	2496	6859185297495662	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	eac578f5e55d7eea
+45	2408	6859185296614318	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	ad09e4b21f87e133
+45	2408	6859185296614318	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	ad09e4b21f87e133
+2674	2742	6859185299934262	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	b35f19a55aa43f81
+2408	2452	6859185297055806	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	67982b9e4f9052e7
+2453	2496	6859185297495662	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	eac578f5e55d7eea
+2626	2674	6859185299275425	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	ce509342dcffd39c
+2496	2540	6859185297935697	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	7c7e5756a87f778d
+2496	2540	6859185297935697	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	7c7e5756a87f778d
+2540	2582	6859185298365640	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	e73d6dd645325ff2
+2540	2582	6859185298365640	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	e73d6dd645325ff2
+2582	2626	6859185298795677	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	878540c6ad2dad88
+2582	2626	6859185298795677	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	878540c6ad2dad88
+2626	2674	6859185299275425	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	ce509342dcffd39c
+2674	2742	6859185299934262	CMakeFiles/curl-populate-complete	b35f19a55aa43f81
+2674	2742	6859185299934262	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	b35f19a55aa43f81
+2674	2742	6859185299934262	C:/BIF/Graduation/Code/C++/Send/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	b35f19a55aa43f81

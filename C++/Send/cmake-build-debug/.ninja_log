@@ -1,0 +1,4 @@
+# ninja log v5
+3	1745	6859160804860392	CMakeFiles/Send.dir/main.cpp.obj	f45108129cebfe2f
+385	486	6859156828476354	Send.exe	3bd55bdb1bf41e5b
+2	1381	6859167780401403	CMakeFiles/Send.dir/HttpRequest.cpp.obj	6ce60e876f8d1b02
