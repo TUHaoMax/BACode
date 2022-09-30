@@ -1,0 +1,9 @@
+C:/PBAV/Graduation/Code/BACode/C++/Send/build/CMakeFiles/Experimental.dir
+C:/PBAV/Graduation/Code/BACode/C++/Send/build/CMakeFiles/Nightly.dir
+C:/PBAV/Graduation/Code/BACode/C++/Send/build/CMakeFiles/Continuous.dir
+C:/PBAV/Graduation/Code/BACode/C++/Send/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/PBAV/Graduation/Code/BACode/C++/Send/build/CMakeFiles/HttpSend.dir
+C:/PBAV/Graduation/Code/BACode/C++/Send/build/CMakeFiles/PACKAGE.dir
+C:/PBAV/Graduation/Code/BACode/C++/Send/build/CMakeFiles/RUN_TESTS.dir
+C:/PBAV/Graduation/Code/BACode/C++/Send/build/CMakeFiles/ALL_BUILD.dir
+C:/PBAV/Graduation/Code/BACode/C++/Send/build/CMakeFiles/ZERO_CHECK.dir

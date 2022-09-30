@@ -1,12 +1,14 @@
-cmake_minimum_required(VERSION 3.23)
-# project
-project(Send)
+cmake_minimum_required(VERSION 3.0.0)
+project(HttpSend VERSION 0.1.0)
 
-set(CMAKE_CXX_STANDARD 14)
-include(FetchContent)
-FetchContent_Declare(cpr GIT_REPOSITORY https://github.com/libcpr/cpr.git
-        GIT_TAG 871ed52d350214a034f6ef8a3b8f51c5ce1bd400) # The commit hash for 1.9.0. Replace with the latest from: https://github.com/libcpr/cpr/releases
-FetchContent_MakeAvailable(cpr)
+include(CTest)
+enable_testing()
 
-add_executable(Send main.cpp HttpRequest.cpp HttpRequest.h)
-target_link_libraries(${CMAKE_PROJECT_NAME} ws2_32)
+add_executable(HttpSend main.cpp)
+
+set(CPACK_PROJECT_NAME ${PROJECT_NAME})
+set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
+include(CPack)
+
+find_package(cpr CONFIG REQUIRED)
+target_link_libraries(HttpSend PRIVATE cpr::cpr)

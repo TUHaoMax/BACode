@@ -1,3 +1,0 @@
-C:/BIF/Graduation/Code/C++/ChessAI/ChessAI-b0db56da9e77cb3d117874b1f532cc10c3727d6d/cmake-build-debug/CMakeFiles/OnLineopening.dir
-C:/BIF/Graduation/Code/C++/ChessAI/ChessAI-b0db56da9e77cb3d117874b1f532cc10c3727d6d/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/BIF/Graduation/Code/C++/ChessAI/ChessAI-b0db56da9e77cb3d117874b1f532cc10c3727d6d/cmake-build-debug/CMakeFiles/rebuild_cache.dir
