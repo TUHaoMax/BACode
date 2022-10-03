@@ -1,3 +1,4 @@
+
 import flask as fs
 import re
 import requests
@@ -11,15 +12,18 @@ app = fs.Flask(__name__)
 @app.route("/")
 def home():
     return '''<h1>function:<h1> 
-               get_Key <br/>
-               get_Move '''
+               get_Key(key) <br/>
+               get_Move(key)'''
 
-@app.route("/<name>/<input>")
+@app.route("/<name>/<input>", methods=["GET"])
 def function(name,input):
-    for f in functions:
-        if f.__name__==name:
-            return f(input)
-    return "no Function"
+    if fs.request.method == "GET":
+        for f in functions:
+            if f.__name__==name:
+                return f(input)
+            else:
+                return "no Function"
+    return "no methods"
 
 def Make_url(key):
     url=address+key
