@@ -1,0 +1,194 @@
+round: 1
+ OP 1 getMove!
+move: e4
+ OP 1 getKey!
+key: m=2&n=3&ms=e4&ns=3
+end round: 1
+time = 1
+#################
+
+round: 2
+ OP 1 getMove!
+move: c5
+ OP 1 getKey!
+key: m=3&n=3&ms=e4.c5&ns=3.3
+end round: 2
+time = 1.046
+#################
+
+round: 3
+ OP 1 getMove!
+move: Nf3
+ OP 1 getKey!
+key: m=4&n=4&ms=e4.c5.Nf3&ns=3.3.4
+end round: 3
+time = 1.063
+#################
+
+round: 4
+ OP 1 getMove!
+move: d6
+ OP 1 getKey!
+key: m=5&n=4&ms=e4.c5.Nf3.d6&ns=3.3.4.4
+end round: 4
+time = 1.047
+#################
+
+round: 5
+ OP 1 getMove!
+move: d4
+ OP 1 getKey!
+key: m=6&n=3&ms=e4.c5.Nf3.d6.d4&ns=3.3.4.4.3
+end round: 5
+time = 1.047
+#################
+
+round: 6
+ OP 1 getMove!
+move: cxd4
+ OP 1 getKey!
+key: m=7&n=3&ms=e4.c5.Nf3.d6.d4.cxd4&ns=3.3.4.4.3.3
+end round: 6
+time = 1.047
+#################
+
+round: 7
+ OP 1 getMove!
+move: Nxd4
+ OP 1 getKey!
+key: m=8&n=4&ms=e4.c5.Nf3.d6.d4.cxd4.Nxd4&ns=3.3.4.4.3.3.4
+end round: 7
+time = 1.031
+#################
+
+
+////////////////////////
+round: 1
+ OP 1 getMove!
+move: e4
+ OP 1 getKey!
+key: m=2&n=3&ms=e4&ns=3
+end round: 1
+time = 1
+#################
+
+round: 2
+ OP 1 getMove!
+move: c5
+ OP 1 getKey!
+key: m=3&n=3&ms=e4.c5&ns=3.3
+end round: 2
+time = 1.734
+#################
+
+round: 3
+ OP 1 getMove!
+move: Nf3
+ OP 1 getKey!
+key: m=4&n=4&ms=e4.c5.Nf3&ns=3.3.4
+end round: 3
+time = 2.109
+#################
+
+round: 4
+ OP 1 getMove!
+move: d6
+ OP 1 getKey!
+key: m=5&n=4&ms=e4.c5.Nf3.d6&ns=3.3.4.4
+end round: 4
+time = 2.047
+#################
+
+round: 5
+ OP 1 getMove!
+move: d4
+ OP 1 getKey!
+key: m=6&n=3&ms=e4.c5.Nf3.d6.d4&ns=3.3.4.4.3
+end round: 5
+time = 1.063
+#################
+
+round: 6
+ OP 1 getMove!
+move: cxd4
+ OP 1 getKey!
+key: m=7&n=3&ms=e4.c5.Nf3.d6.d4.cxd4&ns=3.3.4.4.3.3
+end round: 6
+time = 1.047
+#################
+
+round: 7
+ OP 1 getMove!
+move: Nxd4
+ OP 1 getKey!
+key: m=8&n=4&ms=e4.c5.Nf3.d6.d4.cxd4.Nxd4&ns=3.3.4.4.3.3.4
+end round: 7
+time = 1.078
+#################
+
+
+
+
+///////////////////////////
+round: 1
+ OP 1 getMove!
+move: e4
+ OP 1 getKey!
+key: m=2&n=3&ms=e4&ns=3
+end round: 1
+time = 1.437
+#################
+
+round: 2
+ OP 1 getMove!
+move: c5
+ OP 1 getKey!
+key: m=3&n=3&ms=e4.c5&ns=3.3
+end round: 2
+time = 1.031
+#################
+
+round: 3
+ OP 1 getMove!
+move: Nf3
+ OP 1 getKey!
+key: m=4&n=4&ms=e4.c5.Nf3&ns=3.3.4
+end round: 3
+time = 2.063
+#################
+
+round: 4
+ OP 1 getMove!
+move: d6
+ OP 1 getKey!
+key: m=5&n=4&ms=e4.c5.Nf3.d6&ns=3.3.4.4
+end round: 4
+time = 2.031
+#################
+
+round: 5
+ OP 1 getMove!
+move: d4
+ OP 1 getKey!
+key: m=6&n=3&ms=e4.c5.Nf3.d6.d4&ns=3.3.4.4.3
+end round: 5
+time = 1.062
+#################
+
+round: 6
+ OP 1 getMove!
+move: cxd4
+ OP 1 getKey!
+key: m=7&n=3&ms=e4.c5.Nf3.d6.d4.cxd4&ns=3.3.4.4.3.3
+end round: 6
+time = 1.031
+#################
+
+round: 7
+ OP 1 getMove!
+move: Nxd4
+ OP 1 getKey!
+key: m=8&n=4&ms=e4.c5.Nf3.d6.d4.cxd4.Nxd4&ns=3.3.4.4.3.3.4
+end round: 7
+time = 1.047
+#################

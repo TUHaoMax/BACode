@@ -1,0 +1,152 @@
+round: 1
+e4
+m=2&n=3&ms=e4&ns=3
+end round: 1
+time = 1.015
+#################
+
+round: 2
+c5
+m=3&n=3&ms=e4.c5&ns=3.3
+end round: 2
+time = 1.11
+#################
+
+round: 3
+Nf3
+m=4&n=4&ms=e4.c5.Nf3&ns=3.3.4
+end round: 3
+time = 1.125
+#################
+
+round: 4
+d6
+m=5&n=4&ms=e4.c5.Nf3.d6&ns=3.3.4.4
+end round: 4
+time = 1.406
+#################
+
+round: 5
+d4
+m=6&n=3&ms=e4.c5.Nf3.d6.d4&ns=3.3.4.4.3
+end round: 5
+time = 1.078
+#################
+
+round: 6
+cxd4
+m=7&n=3&ms=e4.c5.Nf3.d6.d4.cxd4&ns=3.3.4.4.3.3
+end round: 6
+time = 1.078
+#################
+
+round: 7
+Nxd4
+m=8&n=4&ms=e4.c5.Nf3.d6.d4.cxd4.Nxd4&ns=3.3.4.4.3.3.4
+end round: 7
+time = 1.047
+#################
+
+
+/////////////////
+round: 1
+e4
+m=2&n=3&ms=e4&ns=3
+end round: 1
+time = 1.031
+#################
+
+round: 2
+c5
+m=3&n=3&ms=e4.c5&ns=3.3
+end round: 2
+time = 1.109
+#################
+
+round: 3
+Nf3
+m=4&n=4&ms=e4.c5.Nf3&ns=3.3.4
+end round: 3
+time = 1.157
+#################
+
+round: 4
+d6
+m=5&n=4&ms=e4.c5.Nf3.d6&ns=3.3.4.4
+end round: 4
+time = 1.109
+#################
+
+round: 5
+d4
+m=6&n=3&ms=e4.c5.Nf3.d6.d4&ns=3.3.4.4.3
+end round: 5
+time = 1.094
+#################
+
+round: 6
+cxd4
+m=7&n=3&ms=e4.c5.Nf3.d6.d4.cxd4&ns=3.3.4.4.3.3
+end round: 6
+time = 1.093
+#################
+
+round: 7
+Nxd4
+m=8&n=4&ms=e4.c5.Nf3.d6.d4.cxd4.Nxd4&ns=3.3.4.4.3.3.4
+end round: 7
+time = 1.094
+#################
+
+
+
+/////////////////
+round: 1
+e4
+m=2&n=3&ms=e4&ns=3
+end round: 1
+time = 1.032
+#################
+
+round: 2
+c5
+m=3&n=3&ms=e4.c5&ns=3.3
+end round: 2
+time = 1.125
+#################
+
+round: 3
+Nf3
+m=4&n=4&ms=e4.c5.Nf3&ns=3.3.4
+end round: 3
+time = 1.109
+#################
+
+round: 4
+d6
+m=5&n=4&ms=e4.c5.Nf3.d6&ns=3.3.4.4
+end round: 4
+time = 1.078
+#################
+
+round: 5
+d4
+m=6&n=3&ms=e4.c5.Nf3.d6.d4&ns=3.3.4.4.3
+end round: 5
+time = 1.094
+#################
+
+round: 6
+cxd4
+m=7&n=3&ms=e4.c5.Nf3.d6.d4.cxd4&ns=3.3.4.4.3.3
+end round: 6
+time = 1.062
+#################
+
+round: 7
+Nxd4
+m=8&n=4&ms=e4.c5.Nf3.d6.d4.cxd4.Nxd4&ns=3.3.4.4.3.3.4
+end round: 7
+time = 1.094
+#################     
+
