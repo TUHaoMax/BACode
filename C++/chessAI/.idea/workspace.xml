@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="chessAI" targetName="chessExec" />
+      <config projectName="chessAI" targetName="thc_chess_static" />
+      <config projectName="chessAI" targetName="chessAI" />
+      <config projectName="chessAI" targetName="myTest" />
+      <config projectName="chessAI" targetName="thc_chess" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d0967b4-9bf4-4d73-ba62-269bcb8cf617" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/chessAI/OnLineOP.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/chessAI/OnLineOP.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/chessAI/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/chessAI/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/chessAI/ChessGame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/chessAI/ChessGame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2FP30CUoYVQtGS0qqQKBameBrSr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/PBAV/Graduation/Code/BACode/C++/chessAI",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PBAV\Graduation\ChessAI\chessAI\cmake-build-debug\src" />
+      <recent name="C:\PBAV\Graduation\ChessAI\chessAI\cmake-build-debug\lib\chessAI\CMakeFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PBAV\Graduation\ChessAI\chessAI\lib\chessAI" />
+      <recent name="C:\PBAV\Graduation\ChessAI\chessAI\cmake-build-debug\lib\chessAI\CMakeFiles" />
+      <recent name="C:\PBAV\Graduation\ChessAI\chessAI\cmake-build-debug\CMakeFiles" />
+      <recent name="C:\PBAV\Graduation\ChessAI\chessAI\cmake-build-debug" />
+      <recent name="C:\PBAV\Graduation\ChessAI\chessAI\cmake-build-debug\lib\chessAI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.chessExec">
+    <configuration name="myTest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="chessAI" TARGET_NAME="myTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="chessAI" RUN_TARGET_NAME="myTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chessAI" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="chessAI" TARGET_NAME="chessAI" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chessExec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="chessAI" TARGET_NAME="chessExec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="chessAI" RUN_TARGET_NAME="chessExec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thc_chess" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="chessAI" TARGET_NAME="thc_chess" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thc_chess_static" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="chessAI" TARGET_NAME="thc_chess_static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.chessAI" />
+      <item itemvalue="CMake Application.thc_chess" />
+      <item itemvalue="CMake Application.thc_chess_static" />
+      <item itemvalue="CMake Application.chessExec" />
+      <item itemvalue="Google Test.myTest" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0967b4-9bf4-4d73-ba62-269bcb8cf617" name="Changes" comment="" />
+      <created>1664379668529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664379668529</updated>
+      <workItem from="1664379670261" duration="641000" />
+      <workItem from="1664380386820" duration="792000" />
+      <workItem from="1664381218477" duration="809000" />
+      <workItem from="1664383772709" duration="41000" />
+      <workItem from="1664555887947" duration="390000" />
+      <workItem from="1664715189668" duration="668000" />
+      <workItem from="1664719897796" duration="5806000" />
+      <workItem from="1664760064407" duration="2073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
