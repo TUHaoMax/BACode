@@ -3,7 +3,7 @@
 #include "ChessAI.h"
 #include "HumanChessPlayer.h"
 #include "OnLineOP.h"
-
+#include <windows.h>
 #include <algorithm>
 #include <memory>
 
@@ -12,16 +12,32 @@ using ChessPlayerPtr = std::shared_ptr<AbstractChessPlayer>;
 
 void ChessGame::gameHandler()
 {
-    printf("gameHandler");
+    string move="";
+    string key="m=1&n=1";
+    DWORD t1, t2;
     OnLineOP onLineOp=OnLineOP();
-    onLineOp.test();
 
-    std::cout <<  onLineOp.getKey("m=1&n=1")<< std::endl;
 
-    std::cout << onLineOp.getMove("m=1&n=1")<< std::endl;
+    for (int i = 0; i<7;i++){
+        std::cout << "round: "<< i+1<< std::endl;
+        t1 = GetTickCount();
+       char* Ckey=strcpy(Ckey, key.c_str());;
 
-    std::cout << onLineOp.checkMove("m=1&n=1+d4")<< std::endl;/*
-    ChessPlayerPtr whitePlayer = nullptr;
+       move = onLineOp.getMove(Ckey);
+       std::cout << "move: "<< move<< std::endl;
+
+       key = onLineOp.getKey(Ckey);
+       std::cout << "key: "<< key<< std::endl;
+
+       t2 = GetTickCount();
+
+       std::cout << "end round: "<< i+1<< std::endl;
+       std::cout << "time = " << ((t2 - t1) * 1.0 / 1000) << std::endl;
+       std::cout << "################# "<< std::endl;
+       std::cout << " " << std::endl;
+    }
+
+    /*ChessPlayerPtr whitePlayer = nullptr;
     ChessPlayerPtr blackPlayer = nullptr;
     while(true)
     {

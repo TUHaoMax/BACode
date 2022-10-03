@@ -1,0 +1,42 @@
+# CMake generation dependency list for this directory.
+C:/PBAV/Graduation/Code/BACode/C++/Communication_test/CommunicationTest/CMakeLists.txt
+C:/PBAV/Graduation/Code/BACode/C++/Communication_test/CommunicationTest/out/build/windows-default/CMakeFiles/3.23.22060601-MSVC_2/CMakeCCompiler.cmake
+C:/PBAV/Graduation/Code/BACode/C++/Communication_test/CommunicationTest/out/build/windows-default/CMakeFiles/3.23.22060601-MSVC_2/CMakeCXXCompiler.cmake
+C:/PBAV/Graduation/Code/BACode/C++/Communication_test/CommunicationTest/out/build/windows-default/CMakeFiles/3.23.22060601-MSVC_2/CMakeRCCompiler.cmake
+C:/PBAV/Graduation/Code/BACode/C++/Communication_test/CommunicationTest/out/build/windows-default/CMakeFiles/3.23.22060601-MSVC_2/CMakeSystem.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/cpr/cprConfig.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/cpr/cprConfigVersion.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/cpr/cprTargets-debug.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/cpr/cprTargets-release.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/cpr/cprTargets.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/curl/CURLConfig.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/curl/CURLConfigVersion.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/curl/CURLTargets-debug.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/curl/CURLTargets-release.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/curl/CURLTargets.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/curl/vcpkg-cmake-wrapper.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake
+C:/PBAV/Graduation/vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeCInformation.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeCXXInformation.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeDependentOption.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeGenericSystem.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeRCInformation.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/FindZLIB.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/Windows.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.23/Modules/SelectLibraryConfigurations.cmake

@@ -4,7 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 
 address ="https://www.365chess.com/opening.php?"
-temp=""
 
 app = fs.Flask(__name__)
 

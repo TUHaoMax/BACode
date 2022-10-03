@@ -1,0 +1,3 @@
+C:/PBAV/Graduation/Code/BACode/C++/Communication_test/CommunicationTest/out/build/windows-default/CMakeFiles/CommunicationTest.dir
+C:/PBAV/Graduation/Code/BACode/C++/Communication_test/CommunicationTest/out/build/windows-default/CMakeFiles/ALL_BUILD.dir
+C:/PBAV/Graduation/Code/BACode/C++/Communication_test/CommunicationTest/out/build/windows-default/CMakeFiles/ZERO_CHECK.dir
