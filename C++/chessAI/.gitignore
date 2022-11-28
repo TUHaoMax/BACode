@@ -40,5 +40,5 @@ tasks.json
 .*cmake
 .*make
 cmake-build-debug
-.idea
+idea
 .vscode
