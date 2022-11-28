@@ -14,14 +14,4 @@ int main(void)
 {
     ChessGame game;
     game.gameHandler();
-
-    /*OnLineOP onLineOp=OnLineOP();
-    onLineOp.test();
-
-    std::cout <<  onLineOp.getKey("m=1&n=1")<< std::endl;
-
-    std::cout << onLineOp.getMove("m=1&n=1")<< std::endl;
-
-    std::cout << onLineOp.checkMove("m=1&n=1+d4")<< std::endl;
-*/
 }
